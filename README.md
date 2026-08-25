@@ -1,16 +1,31 @@
-## Hi there 👋
+# Olá, eu sou a Steicy Eduarda 👋
 
-<!--
-**SteicyEduarda/SteicyEduarda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Analista de Dados | Google Data Analytics Certified**
+📊 Transformando dados em decisões
+💼 Customer Success & CX | Tableau, SQL & Python
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Sobre mim
+Apaixonada por dados e experiência do cliente. Em transição para Análise de Dados, com certificação Google e projetos em SQL, Tableau e Excel. Em busca da primeira oportunidade como Analista de Dados Júnior.
+
+📍 Itapecerica da Serra - SP
+
+### 🛠️ Tech Stack
+
+**Dados:** SQL | MySQL | Excel | Tableau
+**Ferramentas:** Git | GitHub
+
+### 📂 Projetos em Destaque
+
+🏥 **[Clínica Veterinária - Banco de Dados](https://github.com/SteicyEduarda/projeto-banco-de-dados-clinica-veterinaria)**
+Modelagem relacional completa com tutores PF/PJ, animais, consultas e medicamentos. MySQL + DER
+
+📊 **[Portfólio Análise de Dados](https://github.com/SteicyEduarda/Portfolio-Analise-de-Dados)**
+Projetos do Google Data Analytics
+
+### 📫 Conecte-se comigo
+[LinkedIn](https://www.linkedin.com/in/steicyeduarda)
+
+---
+⭐ *"Dados são só números até você contar a história por trás deles."*
