@@ -173,9 +173,11 @@ STATUS: ████████████████████░░░░
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SteicyEduarda&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=SteicyEduarda&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies"/>
 
 </div>
+
+---
 
 ---
 
