@@ -1,15 +1,16 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0d1117,50:00d4ff,100:7b2cff&text=STEICY%20EDUARDA&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=38&desc=DATA%20ANALYST%20%7C%20PYTHON%20%7C%20SQL%20%7C%20DATA%20SCIENCE&descAlignY=58&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0d1117,50:00d4ff,100:7b2cff&text=STEICY%20EDUARDA&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlign=50"/>
 
-# 🤖 `SYSTEM.INIT()`
+# 🤖 ANALISTA DE DADOS | PYTHON • SQL • DATA SCIENCE
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=%3E+Initializing+Data+Analysis+System...;%3E+Loading+Python+Modules...;%3E+Connecting+to+SQL+Database...;%3E+Analyzing+Patterns...;%3E+Transforming+Data+Into+Insights...;%3E+Welcome+to+my+digital+universe." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=%3E+Transformando+dados+em+insights;%3E+Python+%7C+SQL+%7C+Power+BI;%3E+Explorando+padr%C3%B5es+e+oportunidades"/>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-CONNECT-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/steicyeduarda)
-[![GitHub](https://img.shields.io/badge/GitHub-FOLLOW-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/SteicyEduarda)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/steicyeduarda)
+[![GitHub](https://img.shields.io/badge/GitHub-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SteicyEduarda)
+[![Portfolio](https://img.shields.io/badge/Portfolio-PROJETOS-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SteicyEduarda?tab=repositories)
 
 </div>
 
@@ -17,27 +18,16 @@
 
 # 👩‍💻 Sobre Mim
 
-```bash
-┌──(steicy㉿data-lab)-[~/profile]
-└─$ whoami
+Sou uma **Analista de Dados** em formação com foco em transformar dados em insights acionáveis. Trabalho com Python, SQL e ferramentas de BI para gerar valor através de dados.
 
-> Analista de Dados em formação
-> Foco em Dados Industriais
-> Python | SQL | Data Science
-> Transformando dados em informações úteis
-> Explorando padrões e gerando insights
-```
+### Meus Interesses
 
-Sou uma profissional em transição para a área de **Dados**, com foco em transformar informações em insights que apoiem decisões e contribuam para a melhoria de processos.
-
-Tenho interesse em:
-
-* 📊 Análise e exploração de dados
-* 🐍 Python para manipulação e tratamento de dados
-* 🗄️ SQL e bancos de dados relacionais
-* 🧠 Data Science
-* 🏭 Aplicação de dados no ambiente industrial
-* 🔎 Identificação de padrões e oportunidades
+* 📊 **Análise Exploratória de Dados** — EDA, estatística descritiva
+* 🐍 **Python para Dados** — pandas, numpy, matplotlib, seaborn
+* 🗄️ **SQL e Bancos de Dados** — MySQL, PostgreSQL, modelagem relacional
+* 🧠 **Data Science** — machine learning, previsão, padrões
+* 🏭 **Dados Industriais** — otimização, eficiência, decisões baseadas em dados
+* 📊 **Visualização** — Power BI, dashboards, storytelling
 
 ---
 
@@ -45,124 +35,74 @@ Tenho interesse em:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,postgresql,mysql,git,github,vscode&theme=dark" />
-
-<br/><br/>
-
-![Python](https://img.shields.io/badge/Python-Data%20Analysis-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Data%20Querying-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Data Science](https://img.shields.io/badge/Data%20Science-Analytics-8A2BE2?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-MySQL%20%7C%20PostgreSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboards-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-Análise-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
 ---
 
-# 🧰 Ferramentas & Competências
+# 🎯 Projetos em Destaque
 
-```text
-╔════════════════════════════════════════════════════╗
-║              DATA ANALYTICS SYSTEM                 ║
-╠════════════════════════════════════════════════════╣
-║                                                    ║
-║  🐍 Python        █████████░░  Data Analysis       ║
-║  🗄️ SQL           █████████░░  Queries & Databases ║
-║  📊 Data Analysis █████████░░  Insights            ║
-║  🧠 Data Science  ███████░░░░  Exploration         ║
-║  🗂️ Databases     ████████░░░  Modeling            ║
-║  🔧 Git/GitHub    ████████░░░  Version Control     ║
-║                                                    ║
-╚════════════════════════════════════════════════════╝
-```
-## Projetos em Destaque
+### 📊 **[Portfólio de Análise de Dados](https://github.com/SteicyEduarda/Portifolio-Analise-de-Dados)**
+Projetos práticos de **Análise e Visualização de Dados**
 
-<table>
-<tr>
-<td width="50%">
+**Destaques:**
+- 🚲 Divvy Bike-Share — Análise de 500k+ registros
+- 💡 Estratégias baseadas em dados
+- 📈 SQL + Python + Power BI
 
-### Portfólio de Análise de Dados
-Projetos práticos envolvendo análise, exploração e tratamento de dados.
+**Skills:** `SQL` `Python` `Power BI` `Data Analysis`
 
-**Tecnologias:** `Python` `SQL` `Data Analysis`
-
-🔗 [Acessar projeto](https://github.com/SteicyEduarda/Portfolio-Analise-de-Dados)
-
-</td>
-<td width="50%">
-
-### 🚲 Divvy Data Analysis
-Análise de dados históricos de mobilidade para identificar padrões de utilização e comportamento dos usuários.
-
-**Foco:** `Data Cleaning` `Exploração` `Insights`
-
-🔗 [Acessar projeto](https://github.com/SteicyEduarda/Portfolio-Analise-de-Dados)
-
-> 🔍 Em constante evolução
-
-</td>
-</tr>
-</table>
 ---
 
-# 🖥️ Objetivos Atuais
+### 🐾 **[Banco de Dados — Clínica Veterinária](https://github.com/SteicyEduarda/projeto-banco-de-dados-clinica-veterinaria)**
+**Modelagem e Implementação de Banco de Dados Relacional**
 
-```bash
-┌──(steicy㉿data-lab)-[~/goals]
-└─$ cat objectives.txt
+**Destaques:**
+- 🗂️ 8 entidades com relacionamentos complexos
+- 🔍 8 consultas SQL avançadas
+- 📐 Modelagem Entidade-Relacionamento
 
-[✓] Desenvolver projetos práticos de Análise de Dados
-[✓] Aprimorar conhecimentos em Python
-[✓] Evoluir em SQL e Banco de Dados
-[✓] Construir um portfólio profissional
-[>] Explorar novas ferramentas de Data Science
-[>] Aplicar dados para melhorar processos
+**Skills:** `SQL` `MySQL` `Modelagem de Dados`
+
+---
+
+### 💰 **[Simulador de Investimentos em FIIs](https://github.com/SteicyEduarda/simulador-investimentos-fii)**
+**Ferramenta Interativa em Excel**
+
+**Destaques:**
+- 📈 Simulação de cenários
+- 💵 Cálculo automático de dividendos
+- 📊 Visualizações gráficas
+
+**Skills:** `Excel` `Análise Financeira`
+
+---
+
+# 🖥️ Objetivos
+
+```
+[✓] Desenvolver projetos de Análise de Dados
+[✓] Aprimorar Python e SQL
+[✓] Construir portfólio impressionante
+[>] Explorar Machine Learning
 [>] Conquistar oportunidades na área de Dados
-
-STATUS: ████████████████████░░░░  EVOLUINDO...
 ```
 
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/SteicyEduarda/SteicyEduarda/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-
-</div>
 ---
 
 # 🌐 Conecte-se Comigo
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/steicyeduarda">
-<img src="https://img.shields.io/badge/LinkedIn-Steicy%20Eduarda-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/SteicyEduarda">
-<img src="https://img.shields.io/badge/GitHub-SteicyEduarda-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
+[**LinkedIn**](https://www.linkedin.com/in/steicyeduarda) • [**GitHub**](https://github.com/SteicyEduarda) • [**Projetos**](https://github.com/SteicyEduarda?tab=repositories)
 
 ---
 
-<div align="center">
-
-```text
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║       "Data is the new language of decisions."       ║
-║                                                      ║
-║              SYSTEM STATUS: ONLINE 🟢                ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2CFF,50:00D9FF,100:0D1117&height=120&section=footer"/>
-
-### ⚡ Powered by curiosity, data and continuous learning.
+**Sempre aprendendo. Sempre evoluindo.** 🚀
 
 </div>
