@@ -103,7 +103,7 @@ Projetos práticos envolvendo análise, exploração e tratamento de dados.
 ### 🚲 Divvy Data Analysis
 
 Análise de dados históricos de mobilidade para identificar padrões de utilização e comportamento dos usuários.
-
+[Acessar projeto](https://github.com/SteicyEduarda/Portfolio-Analise-de-Dados)
 **Foco:**
 
 `Data Cleaning` `Exploração` `Insights`
