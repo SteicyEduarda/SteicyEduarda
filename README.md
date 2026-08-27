@@ -75,40 +75,34 @@ Tenho interesse em:
 ║                                                    ║
 ╚════════════════════════════════════════════════════╝
 ```
-
----
-
-# 🚀 Projetos em Destaque
-
-<div align="center">
+## Projetos em Destaque
 
 <table>
 <tr>
 <td width="50%">
 
-### 📊 Portfólio de Análise de Dados
-
+### Portfólio de Análise de Dados
 Projetos práticos envolvendo análise, exploração e tratamento de dados.
 
-**Tecnologias:**
+**Tecnologias:** `Python` `SQL` `Data Analysis`
 
-`Python` `SQL` `Data Analysis`
-
-🔗 [Acessar projeto](https://github.com/SteicyEduarda/Portifolio-Analise-de-Dados)
+🔗 [Acessar projeto](https://github.com/SteicyEduarda/Portfolio-Analise-de-Dados)
 
 </td>
-
 <td width="50%">
 
-#### 🚲 Divvy Data Analysis
+### 🚲 Divvy Data Analysis
 Análise de dados históricos de mobilidade para identificar padrões de utilização e comportamento dos usuários.
 
 **Foco:** `Data Cleaning` `Exploração` `Insights`
 
 🔗 [Acessar projeto](https://github.com/SteicyEduarda/Portfolio-Analise-de-Dados)
 
+> 🔍 Em constante evolução
 
-
+</td>
+</tr>
+</table>
 ---
 
 # 🖥️ Objetivos Atuais
