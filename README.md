@@ -186,7 +186,6 @@ STATUS: ████████████████████░░░░
 <img src="https://raw.githubusercontent.com/SteicyEduarda/SteicyEduarda/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 
 </div>
-
 ---
 
 # 🌐 Conecte-se Comigo
