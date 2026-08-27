@@ -149,37 +149,6 @@ STATUS: ████████████████████░░░░
 
 ---
 
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=SteicyEduarda&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=00D9FF&fire=7B2CFF&currStreakLabel=00D9FF" />
-
-</div>
-
----
-
-# 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SteicyEduarda&bg_color=0D1117&color=00D9FF&line=7B2CBF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SteicyEduarda&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8" alt="GitHub Trophies" />
-
-</div>
----
-
----
-
 # 🐍 Contribution Snake
 
 <div align="center">
